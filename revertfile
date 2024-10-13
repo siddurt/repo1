@@ -1,0 +1,3 @@
+it will undo the existing commit.
+it does not delete any code in this process.
+instead rather git creates new commit with included file revert together previous state.
